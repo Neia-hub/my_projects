@@ -35,8 +35,8 @@ For this project, were recorded five portuguese sentences with a sample rate of 
 
 The portuguese sentences list follow below:
 
-`frase1_pt.wav` - "O vento forte cortou o silêncio da noite fria."
-`frase2_pt.wav` - "Aquela velha ponte de pedra ruiu com a chuva de ontem."
-`frase3_pt.wav` - "O rapaz comprou pão fresco e fruta na praça central."
-`frase4_pt.wav` - "Todos os fins de semana, o meu avô caminha junto ao mar."
-`frase5_pt.wav` - "Deixei as chaves do carro em cima da mesa da cozinha."
+- `frase1_pt.wav` - "O vento forte cortou o silêncio da noite fria."
+- `frase2_pt.wav` - "Aquela velha ponte de pedra ruiu com a chuva de ontem."
+- `frase3_pt.wav` - "O rapaz comprou pão fresco e fruta na praça central."
+- `frase4_pt.wav` - "Todos os fins de semana, o meu avô caminha junto ao mar."
+- `frase5_pt.wav` - "Deixei as chaves do carro em cima da mesa da cozinha."
